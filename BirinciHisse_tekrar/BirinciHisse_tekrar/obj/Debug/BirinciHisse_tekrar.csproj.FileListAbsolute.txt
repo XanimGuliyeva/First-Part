@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.Form1.resources
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.Properties.Resources.resources
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\bin\Debug\BirinciHisse_tekrar.exe.config
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\bin\Debug\BirinciHisse_tekrar.exe
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\bin\Debug\BirinciHisse_tekrar.pdb
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.exe
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.pdb
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\bin\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.csproj.ResolveComReference.cache
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.Form2.resources
+C:\Users\ASUS\source\repos\BirinciHisse_tekrar\BirinciHisse_tekrar\obj\Debug\BirinciHisse_tekrar.Form3.resources
